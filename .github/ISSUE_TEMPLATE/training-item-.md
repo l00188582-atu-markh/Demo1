@@ -12,3 +12,5 @@ Scope:
 Affected Trainees:
 
 Training Type:
+
+Proposed Training Date(s):
